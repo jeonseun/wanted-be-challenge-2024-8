@@ -1,11 +1,11 @@
-package org.project.portfolio
+package me.seun
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class PortfolioApplication
+class Application
 
 fun main(args: Array<String>) {
-    runApplication<PortfolioApplication>(*args)
+    runApplication<Application>(*args)
 }

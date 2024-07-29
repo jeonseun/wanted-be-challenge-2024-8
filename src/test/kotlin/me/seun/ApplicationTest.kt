@@ -1,13 +1,13 @@
-package org.project.portfolio
+package me.seun
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class PortfolioApplicationTests {
+class ApplicationTest {
 
     @Test
     fun contextLoads() {
-    }
 
+    }
 }
